@@ -1,0 +1,176 @@
+header {
+  background-color: #f7f8f8;
+}
+.top ul {
+  display: flex;
+}
+.top li {
+  list-style: none;
+}
+.top li a {
+  text-decoration: none;
+  color: black;
+  margin: 10px;
+  font-size: 12px;
+}
+img {
+  float: left;
+}
+#select-loc {
+  border-radius: 5px;
+  margin: 10px;
+  padding: 13px;
+  font-size: 16px;
+  border: 2px solid black;
+}
+#search {
+  width: 750px;
+  padding: 13px;
+  font-size: 16px;
+  border-radius: 5px;
+  margin: 10px;
+  border: 2px solid black;
+}
+#login {
+  color: black;
+  font-size: 20px;
+  margin-left: 25px;
+  font-weight: bold;
+}
+#sell {
+  margin-left: 25px;
+  padding: 10px;
+  border-top: 5px solid aqua;
+  border-bottom: 5px solid blue;
+  border-left: 5px solid yellow;
+  border-right: 5px solid red;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 15px;
+  width: 80px;
+}
+section ul {
+  display: flex;
+}
+.main-navbar ul li {
+  list-style: none;
+
+  margin: 6px;
+}
+.main-navbar ul li a {
+  text-decoration: none;
+  color: black;
+}
+.main-navbar ul li a:hover {
+  color: green;
+}
+.inner-link {
+  display: block;
+}
+#add-back {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  margin-bottom: 70px;
+}
+h4 {
+  margin-top: 40px;
+  /* margin-bottom: 20px; */
+}
+
+.card {
+  float: left;
+  margin: 5px;
+  width: 300px;
+  /* margin-bottom: ; */
+}
+.card img {
+  height: 200px;
+  padding: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: black;
+}
+.address {
+  font-size: 12px;
+}
+
+#loadmore {
+  clear: both;
+  margin: 50px auto;
+  margin-left: 500px;
+  text-align: center;
+  padding: 10px;
+  
+}
+.try-app {
+    margin-top: 50px;
+  background-color: #f7f8f8;
+}
+.apptxt {
+  padding: 20px;
+}
+.apptxt p {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #002f34;
+}
+.vl {
+  float: left;
+  border-left: 2px solid gray;
+  height: 150px;
+  margin-top: 30px;
+}
+.abc h6 {
+    margin-top: 70px;
+    margin-left: 20px;
+}
+
+.app-image1{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.app-image2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.app-image3{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+footer{
+    background-color: #ebeeef;
+   
+}
+
+.footer1{
+    margin-top: 30px;
+    width: 50px;
+   margin-left: 5px;
+
+}
+.footer2{
+    margin-top: 30px;
+   margin-left: 5px;
+    width: 50px;
+}
+.footer3{
+    margin-top: 30px;
+    margin-left: 5px;
+   
+    width: 50px;
+}
+.footer-links  a{
+    text-decoration: none;
+    
+}
+/* #backtop{
+    position: fixed;
+    top: 10px;
+    right: 200px;
+} */
+/* header{
+    position: fixed;
+   top: 0px;
+} */
